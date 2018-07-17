@@ -25,6 +25,7 @@
         <activity android:name=".halaman.ListPlatNomor" />
         <activity android:name=".halaman.ListSamsat" />
         <activity android:name=".halaman.DetailPlatNomor" />
+        <activity android:name=".halaman.Bantuan" />
 
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
