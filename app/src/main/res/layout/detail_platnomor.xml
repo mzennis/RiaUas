@@ -2,6 +2,26 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:layout_margin="16dp">
+
+    <TextView
+        android:id="@+id/kode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="akjsfbaksf"/>
+
+    <TextView
+        android:id="@+id/kota"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="jkrbsj@jbsdf.cond"/>
+
+    <TextView
+        android:id="@+id/negara"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="03485"/>
+
 
 </LinearLayout>

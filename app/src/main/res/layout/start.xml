@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="horizontal"
     android:weightSum="2"
-    tools:context=".Start">
+    tools:context=".halaman.Start">
 
     <Button
         android:id="@+id/btn_platnomor"

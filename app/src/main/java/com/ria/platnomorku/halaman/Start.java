@@ -1,10 +1,12 @@
-package com.ria.platnomorku;
+package com.ria.platnomorku.halaman;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+
+import com.ria.platnomorku.R;
 
 public class Start extends AppCompatActivity {
 
